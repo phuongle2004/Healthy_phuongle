@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670821656478",
+    "project_id": "heathyapp-4502c",
+    "storage_bucket": "heathyapp-4502c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670821656478:android:e902a1250261b18099988f",
+        "android_client_info": {
+          "package_name": "com.heathyyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMDCFaWnMjFjgKOL67KmMKji_LFTrHwoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
